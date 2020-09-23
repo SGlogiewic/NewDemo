@@ -1,0 +1,9 @@
+C:\Users\glogi\source\repos\CST117Exercise1\CST117Exercise1\bin\Debug\CST117Exercise1.exe.config
+C:\Users\glogi\source\repos\CST117Exercise1\CST117Exercise1\bin\Debug\CST117Exercise1.exe
+C:\Users\glogi\source\repos\CST117Exercise1\CST117Exercise1\bin\Debug\CST117Exercise1.pdb
+C:\Users\glogi\source\repos\CST117Exercise1\CST117Exercise1\obj\Debug\CST117Exercise1.csprojAssemblyReference.cache
+C:\Users\glogi\source\repos\CST117Exercise1\CST117Exercise1\obj\Debug\CST117Exercise1.CST117Exercise1.resources
+C:\Users\glogi\source\repos\CST117Exercise1\CST117Exercise1\obj\Debug\CST117Exercise1.Properties.Resources.resources
+C:\Users\glogi\source\repos\CST117Exercise1\CST117Exercise1\obj\Debug\CST117Exercise1.csproj.GenerateResource.cache
+C:\Users\glogi\source\repos\CST117Exercise1\CST117Exercise1\obj\Debug\CST117Exercise1.exe
+C:\Users\glogi\source\repos\CST117Exercise1\CST117Exercise1\obj\Debug\CST117Exercise1.pdb
